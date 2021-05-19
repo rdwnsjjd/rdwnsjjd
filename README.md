@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Radwan
-- 🏠 I live in Iran/Tehran!
 - 👀 I’m interested in os development!
 - 🌱 I’m currently learning linux kernel, os dev, asssembly and Rust
 - 📫 I'm alive in rdwnsjjd@gmail.com!
