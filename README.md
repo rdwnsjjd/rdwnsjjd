@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Radwan
+- 👋 Hi, I’m Redwan
 - 👀 I’m interested in os development!
 - 🌱 I’m currently learning linux kernel, os dev, asssembly and Rust
 - 📫 I'm alive in rdwnsjjd@gmail.com!
