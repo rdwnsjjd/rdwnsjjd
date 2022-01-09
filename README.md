@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Redwan!</h1>
 <h3 align="center">An Operating System developer!</h3>
 
-- 🔭 I’m currently working on [MyOs](https://github.com/rdwnsjjd/MyOs)
+<!-- - 🔭 I’m currently working on [MyOs](https://github.com/rdwnsjjd/MyOs) -->
 
-- 🌱 I’m currently learning **Operating system**
+<!-- - 🌱 I’m currently learning **Operating system** -->
 
 - 📫 How to reach me **rdwnsjjd@gmail.com**
 
